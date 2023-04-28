@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game_robbery", "game_robbery\game_robbery.csproj", "{410E82AE-DACC-48D9-9D71-70238FE74709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410E82AE-DACC-48D9-9D71-70238FE74709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410E82AE-DACC-48D9-9D71-70238FE74709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410E82AE-DACC-48D9-9D71-70238FE74709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410E82AE-DACC-48D9-9D71-70238FE74709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78644988-F1C1-4856-A5EB-28EE4E6063AE}
+	EndGlobalSection
+EndGlobal
